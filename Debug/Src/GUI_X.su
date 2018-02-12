@@ -1,0 +1,7 @@
+GUI_X.c:72:16:GUI_X_GetTime	0	static
+GUI_X.c:76:6:GUI_X_Delay	0	static
+GUI_X.c:91:6:GUI_X_Init	0	static
+GUI_X.c:102:6:GUI_X_ExecIdle	0	static
+GUI_X.c:118:6:GUI_X_Log	0	static
+GUI_X.c:119:6:GUI_X_Warn	0	static
+GUI_X.c:120:6:GUI_X_ErrorOut	0	static
